@@ -1,3 +1,5 @@
+If this Helped you, Maybe You Can Help me By Sponsoring Me, which Will Help me Create Better "Open-source Tools" 
+
 <img src="https://i.imgur.com/3a0jNNr.png"></img>
 # BruteConda
 A Directory Bruteforcing Tool That Makes Your Life Easier!
